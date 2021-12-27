@@ -1,9 +1,4 @@
-/*
- *   Copyright (c) 2020 routerabfrage
- *   All rights reserved.
- *   https://github.com/routerabfrage/License
- */
-// jshint esversion: 8
+
 var config = require('./config.json');
 var discord = require('discord.js');
 var client = new discord.Client();
